@@ -1,3 +1,5 @@
+![Chord Banner](/banner.png)
+
 # Chord
 
 Chord is a music-based matching platform focused on helping people connect through what they actually listen to. 
