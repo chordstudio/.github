@@ -1,4 +1,6 @@
-![Chord Banner](/banner.png)
+<p align="center">
+  <img src="/banner.png" alt="Chord Banner" width="200" height="200" />
+</p>
 
 # Chord
 
